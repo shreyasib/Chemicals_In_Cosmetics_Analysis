@@ -9,10 +9,10 @@ These data reflect information that has been reported to the California Safe Cos
 For all cosmetic products sold in California, the California Safe Cosmetics Act (“the Act”) requires the manufacturer, packer, and/or distributor named on the product label to provide to the CSCP a list of all cosmetic products that contain any ingredients known or suspected to cause cancer, birth defects, or other developmental or reproductive harm.
 
 
-## Data Clleaning
+## Data Clleaning: Excel
 
-## Data Analysis
+## Data Analysis: SQL
 
-## Data Visualization
+## Data Visualization: Tableau
 
 ## Key Insights
