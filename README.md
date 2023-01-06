@@ -15,4 +15,6 @@ For all cosmetic products sold in California, the California Safe Cosmetics Act 
 
 ## Data Visualization: Tableau
 
+Dashboard Link: https://public.tableau.com/app/profile/shreyasi/viz/ChemicalsinCosmetics_16730349342340/Dashboard1?publish=yes
+
 ## Key Insights
