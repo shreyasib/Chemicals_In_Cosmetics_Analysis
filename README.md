@@ -12,5 +12,3 @@ The data reflects information about cosmetic products that has been reported to 
 #### Data Visualization: Tableau
 
 Dashboard Link: https://public.tableau.com/app/profile/shreyasi/viz/ChemicalsinCosmetics_16730349342340/Dashboard1?publish=yes
-
-## Key Insights
