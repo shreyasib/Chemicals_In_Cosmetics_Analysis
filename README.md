@@ -17,7 +17,12 @@ Dashboard Link: https://public.tableau.com/app/profile/shreyasi/viz/ChemicalsinC
 #### Strategic Recommendations
 To deliver the insights and provide recommendations based on the analysis:
 
-1. Brands like Sephora(7 chemicals), Sally Hansen(7), Christian Dior(6) and Palladio(10) have a high chemical usage. Products with higher than 5 chemicals can have a a label that idicates the same on it's products. This will allow the consumers to make an informed decision before buying the product.
-2. It is also alarming to observe that Skin care(26) uses more chemicals than make-up(24) products. Consumers have a general consensus about makeup being harmful but skincare does not maintain the same reputation. Through a more informative product labelling, consumers must be informed of the harmful effects of skincare products that use high quanity of chemicals.
+1. Increase transparency about the chemicalss used in products. This could include providing clear and detailed ingredient lists, as well as information about the sources and safety of the ingredients used. Brands like Sephora(7 chemicals), Sally Hansen(7), Christian Dior(6) and Palladio(10) have a high chemical usage. Products with higher than 5 chemicals can have a a label that idicates the same on it's products. This will allow the consumers to make an informed decision before buying the product.
+2. Invest in research and development to find safer alternatives to potentially hazardous chemicals. This could include partnering with academic or research institutions, or investing in in-house R&D efforts.
+3. Work with regulatory agencies and industry organizations to establish standards and guidelines for the use of chemicals in cosmetic products. This could help ensure that products are safe and effective, while also promoting transparency and accountability.
+
+
+
+
 
 
